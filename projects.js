@@ -4,6 +4,11 @@ const projects = [
     description: "Short-form social media edit with fast cuts and beat-driven transitions.",
     video: "videos/project1.mp4"
   },
+   {
+    title: "Olympic Tabeltennis Edit",
+    description: "Short-form social media edit with fast cuts and beat-driven transitions.",
+    video: "videos/project4.mp4"
+  },
   {
     title: "Olympic Iceskating Highlights",
     description: "Elegant highlight edit focusing on impact and emotional storytelling.",
